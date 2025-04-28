@@ -1,6 +1,6 @@
 # Esercizio proposto e risolto in riunione
 
-# programma_promo
+# Programma_promo
 
 # Un negozio di animali domestici vuole fare uno sconto ai clienti
 # che acquistano un animale (o più) e almeno cinque altri articoli.
