@@ -1,4 +1,7 @@
+# Esercizio proposto e risolto in riunione
+
 # Estrai
+
 # modificare il programma (su PDF) in modo da:
 # - non estrarre più il numero di sequenza
 # - emettere in ordine: sigla, nome provincia, abitanti, kmq
