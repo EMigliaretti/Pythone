@@ -7,7 +7,9 @@ from selenium.webdriver.common.by import By
 import pandas as pd
 
 url = "https://live-tennis.eu/it/classifica-atp-live"
+# =========================================================================
 s = Service(r"/Program Files/Python/Python313/chromedriver.exe")
+# =========================================================================
 
 driver = webdriver.Chrome(service=s)
 driver.get(url)
